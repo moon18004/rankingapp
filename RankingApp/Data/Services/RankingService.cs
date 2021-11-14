@@ -48,20 +48,7 @@ namespace RankingApp.Data.Services
         }
 
         // Delete
-        //public Task<bool> DeleteGameResult(GameResult gameResult)
-        //{
-        //    var findResult = _context.GameResults.Where(x => x.Id == gameResult.Id).FirstOrDefault();
-
-        //    if (findResult == null)
-        //    {
-        //        return Task.FromResult(false);
-        //    }
-
-        //    _context.GameResults.Remove(gameResult);
-        //    _context.SaveChanges();
-
-        //    return Task.FromResult(true);
-        //}
+        
         public Task<bool> DeleteGameResult(GameResult gameResult)
         {
             var findResult = _context.GameResults

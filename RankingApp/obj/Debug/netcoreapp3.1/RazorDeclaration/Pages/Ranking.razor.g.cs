@@ -98,7 +98,7 @@ using RankingApp.Data.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 86 "C:\BYUI\2021Fall\CSE310\Week09\RankingApp\RankingApp\Pages\Ranking.razor"
+#line 84 "C:\BYUI\2021Fall\CSE310\Week09\RankingApp\RankingApp\Pages\Ranking.razor"
        
 
     List<GameResult> _gameResults;

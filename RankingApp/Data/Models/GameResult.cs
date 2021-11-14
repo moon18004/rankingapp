@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace RankingApp.Data.Models
 {
-    // DB를 위한 데이터
+    // Data for Database
     public class GameResult
     {
         public int Id { get; set; }
