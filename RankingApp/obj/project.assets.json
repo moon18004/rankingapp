@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BYUI\\2021Fall\\CSE310\\Week09\\RankingApp\\RankingApp\\RankingApp.csproj",
+      "projectUniqueName": "C:\\BYUI\\2021Fall\\CSE310\\Week 09\\RankingApp\\RankingApp\\RankingApp.csproj",
       "projectName": "RankingApp",
-      "projectPath": "C:\\BYUI\\2021Fall\\CSE310\\Week09\\RankingApp\\RankingApp\\RankingApp.csproj",
+      "projectPath": "C:\\BYUI\\2021Fall\\CSE310\\Week 09\\RankingApp\\RankingApp\\RankingApp.csproj",
       "packagesPath": "C:\\Users\\Moon\\.nuget\\packages\\",
-      "outputPath": "C:\\BYUI\\2021Fall\\CSE310\\Week09\\RankingApp\\RankingApp\\obj\\",
+      "outputPath": "C:\\BYUI\\2021Fall\\CSE310\\Week 09\\RankingApp\\RankingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moon\\AppData\\Roaming\\NuGet\\NuGet.Config",

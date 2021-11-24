@@ -3,7 +3,7 @@
 This is a ranking app with .NET Blazor. It shows the users' scores in order. It has information on the user's ID, name, and score in a database. We can add new user information and delete existing users on the website. You can also update the information of existing users. The information of users changed on the website applies to the database.
 
 
-[Software Demo Video](https://youtu.be/gl4nh2HdoUI)
+[Software Demo Video](https://www.youtube.com/watch?v=WLn51iLKUuM)
 
 # Web Pages
 
